@@ -1,3 +1,3 @@
 # Slider-Js-Project
 
-RESİMLİ SLİDER PROJECT
+Resimli Slider Projem İçin Tıklayınız : https://mustafa-bayram.github.io/Slider-Js-Project/
